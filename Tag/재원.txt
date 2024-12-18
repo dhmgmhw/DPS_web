@@ -1,0 +1,67 @@
+재원
+
+15."
+태그 사이즈 42.5(W) x 36.5(H) x 12.0(T) mm
+화면 사이즈 28.0(W) x 28.0(H) mm
+픽셀 / DPI 152(H) x 152(V) / 140
+표현컬러 Mono(BW) / 3-color(BWR)
+배터리 타입 CR2450 1Package
+
+2.1"
+태그 사이즈 64.5(W) x 36.5(H) x 12.0(T) mm
+화면 사이즈 49.3(W) x 24.5(H) mm
+픽셀 / DPI 212(H) x 104(V) / 111
+표현컬러 Mono(BW) / 3-color(BWR)
+배터리 타입 CR2450 2 in 1 Package
+
+2.9"
+태그 사이즈 87.5(W) x 42.8(H) x 12.0(T) mm
+화면 사이즈 67.1(W) x 29.3(H) mm
+픽셀 / DPI 296(H) x 128(V) / 112
+표현컬러 Mono(BW) / 3-color(BWR)
+배터리 타입 CR2450 2 in 1 Package
+
+3.7"
+태그 사이즈 100.0(W) x 59.0(H) x 12.0(T) mm
+화면 사이즈 82.0(W) x 47.5(H) mm
+픽셀 / DPI 416(H) x 240(V) / 130
+표현컬러 Mono(BW) / 3-color(BWR)
+배터리 타입 CR2450 3 in 1 Package
+
+4.2"
+태그 사이즈 103.0(W) x 96.0(H) x 12.0(T) mm
+화면 사이즈 85.1(W) x 63.9(H) mm
+픽셀 / DPI 400(H) x 300(V) / 120
+표현컬러 Mono(BW) / 3-color(BWR)
+배터리 타입 CR2450 3 in 1 Package
+
+7.5"
+태그 사이즈 179.8(W) x 127.0(H) x 15.0(T) mm
+화면 사이즈 164.0(W) x 98.8(H) mm
+픽셀 / DPI 480(H) x 800(V) / 125
+표현컬러 Mono(BW) / 3-color(BWR)
+배터리 타입 CR2450 3 in 1 Package
+
+12.5"
+태그 사이즈 293.6(W) x 231.5(H) x 18.0(T) mm
+화면 사이즈 253.6(W) x 191.5(H) mm
+픽셀 / DPI 984(H) x 1,304(V) / 131
+표현컬러 Mono(BW) / 3-color(BWR)
+배터리 타입 4A Alkaline 2 in 1 Package x 4
+
+Controller
+Key Feature 3 Button / 1 LED / 1 Buzzer
+Size 38.0(W) x 39.0(H) x 95.0(T) mm
+Network  HF : 13.56MHz Transmitter, Protocol : Compatible with ATEC IoT
+LoS < 10mm
+Power Rate 3V / 100mA, AAA Alkaline Battery x 2 ea (Removable)
+
+AP
+모델 : REGX-XXXXB
+사이즈 : 150 x 150 x 21.0 mm
+전원타입 : DC 12V/1.5A, POE
+네트워크 : 2.4GHz : 802.15.4 x 3 ea
+슬롯 : No of Slot : 7 ea
+*저장방식 : *SSD 128GB
+통신방식 : 지그비 통신
+태그수용범위 : 5,000개 (단, 장애물 있을 시 예외)
